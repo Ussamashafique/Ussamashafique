@@ -1,7 +1,10 @@
+![logo](https://github.com/Ussamashafique/Ussamashafique/blob/main/Usama%20Shafique.png)
 <h1 align="center">Hi 👋, I'm Usama</h1>
 <h3 align="center">A passionate Devops Engineer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ussamashafique786" alt="ussamashafique786" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ussamashafique](https://github.com/Ussamashafique)
 
 - 📝 I write articles on [https://medium.com/@usamashafique00786](https://medium.com/@usamashafique00786)
 
